@@ -28,7 +28,7 @@ One possible explanation is bias from increased testing.
 If new testing outpaces herd immunity, this will superficially look like a second wave, even if the true case counts are falling.
 A few regions are shown below that demonstrate this phenomenon.
 
-![Switzerland](plots/country/Switzerland.png)
+![Switzerland](plots/country/switzerland.png)
 
 ![United States](plots/country/united_states.png)
 
